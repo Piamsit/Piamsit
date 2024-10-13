@@ -28,9 +28,3 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
-<h3>My Stats</h3>
-<hr />
-<p>
-  <img alt="top-langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piamsit&show_icons=true&theme=transparent&layout=compact&hide_progress=true" />
-  <img alt="stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Piamsit&show_icons=true&theme=transparent&rank_icon=github" />
-</p>
